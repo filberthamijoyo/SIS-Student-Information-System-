@@ -1,0 +1,290 @@
+[
+  {
+    "event_type": "REGISTRATION",
+    "term": "T1",
+    "year": 2025,
+    "start_date": "2025-08-17",
+    "end_date": "2025-08-18",
+    "name": "Y2-4 Ug Course Registration for T1 (Tentative)",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "T1",
+    "year": 2025,
+    "start_date": "2025-08-28",
+    "end_date": null,
+    "name": "Y1 Ug Course Registration for T1 (Tentative)",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "T1",
+    "year": 2025,
+    "start_date": "2025-08-29",
+    "end_date": null,
+    "name": "Pg Course Registration for T1 (Tentative)",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "T2",
+    "year": 2025,
+    "start_date": "2025-12-22",
+    "end_date": "2025-12-23",
+    "name": "Ug Course Registration for T2 (Tentative)",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "T2",
+    "year": 2026,
+    "start_date": "2026-01-02",
+    "end_date": null,
+    "name": "Pg Course Registration for T2 (Tentative)",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "SUMMER",
+    "year": 2026,
+    "start_date": "2026-05-29",
+    "end_date": null,
+    "name": "Pg Course Registration for SS (Tentative)",
+    "description": null
+  },
+  {
+    "event_type": "OTHER",
+    "term": "T1",
+    "year": 2025,
+    "start_date": "2025-08-31",
+    "end_date": null,
+    "name": "12",
+    "description": null
+  },
+  {
+    "event_type": "OTHER",
+    "term": "T1",
+    "year": 2026,
+    "start_date": "2026-02-09",
+    "end_date": null,
+    "name": "1",
+    "description": null
+  },
+  {
+    "event_type": "OTHER",
+    "term": "T1",
+    "year": 2026,
+    "start_date": "2026-05-30",
+    "end_date": null,
+    "name": "5",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "T1",
+    "year": 2025,
+    "start_date": "2025-08-17",
+    "end_date": "2025-08-18",
+    "name": "Y2-4 Ug Course Registration for T1 (Tentative)",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "T1",
+    "year": 2025,
+    "start_date": "2025-08-28",
+    "end_date": null,
+    "name": "Y1 Ug Course Registration for T1 (Tentative)",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "T1",
+    "year": 2025,
+    "start_date": "2025-08-29",
+    "end_date": null,
+    "name": "Pg Course Registration for T1 (Tentative)",
+    "description": null
+  },
+  {
+    "event_type": "ADD_DROP",
+    "term": "T1",
+    "year": 2025,
+    "start_date": "2025-09-12",
+    "end_date": null,
+    "name": "Add/Drop for T1",
+    "description": null
+  },
+  {
+    "event_type": "OTHER",
+    "term": "T1",
+    "year": 2025,
+    "start_date": "2025-09-01",
+    "end_date": null,
+    "name": "First Teaching Day of T1",
+    "description": null
+  },
+  {
+    "event_type": "CLASS_MAKEUP",
+    "term": "T1",
+    "year": 2025,
+    "start_date": "2025-09-28",
+    "end_date": null,
+    "name": "Class Make-up for Wednesday Sessions",
+    "description": null
+  },
+  {
+    "event_type": "HOLIDAY",
+    "term": "T1",
+    "year": 2025,
+    "start_date": "2025-10-01",
+    "end_date": "2025-10-08",
+    "name": "National Day & Mid-Autumn Festival",
+    "description": null
+  },
+  {
+    "event_type": "OTHER",
+    "term": "T1",
+    "year": 2025,
+    "start_date": "2025-12-12",
+    "end_date": null,
+    "name": "Last Teaching Day of T1",
+    "description": null
+  },
+  {
+    "event_type": "EXAM",
+    "term": "T1",
+    "year": 2025,
+    "start_date": "2025-12-14",
+    "end_date": "2025-12-21",
+    "name": "Course Examinations for T1",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "T2",
+    "year": 2025,
+    "start_date": "2025-12-22",
+    "end_date": "2025-12-23",
+    "name": "Ug Course Registration for T2 (Tentative)",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "T2",
+    "year": 2026,
+    "start_date": "2026-01-02",
+    "end_date": null,
+    "name": "Pg Course Registration for T2 (Tentative)",
+    "description": null
+  },
+  {
+    "event_type": "ADD_DROP",
+    "term": "T2",
+    "year": 2026,
+    "start_date": "2026-01-03",
+    "end_date": "2026-01-16",
+    "name": "Add/Drop for T2",
+    "description": null
+  },
+  {
+    "event_type": "HOLIDAY",
+    "term": "T1",
+    "year": 2026,
+    "start_date": "2026-03-01",
+    "end_date": null,
+    "name": "Chinese New Year Holiday (Tentative)",
+    "description": null
+  },
+  {
+    "event_type": "HOLIDAY",
+    "term": "T1",
+    "year": 2026,
+    "start_date": "2026-02-17",
+    "end_date": null,
+    "name": "Chinese New Year's Day",
+    "description": null
+  },
+  {
+    "event_type": "HOLIDAY",
+    "term": "T1",
+    "year": 2026,
+    "start_date": "2026-04-05",
+    "end_date": null,
+    "name": "Qingming Festival",
+    "description": null
+  },
+  {
+    "event_type": "HOLIDAY",
+    "term": "T1",
+    "year": 2026,
+    "start_date": "2026-05-01",
+    "end_date": null,
+    "name": "Labor Day",
+    "description": null
+  },
+  {
+    "event_type": "OTHER",
+    "term": "T2",
+    "year": 2026,
+    "start_date": "2026-05-08",
+    "end_date": null,
+    "name": "Last Teaching Day of T2",
+    "description": null
+  },
+  {
+    "event_type": "EXAM",
+    "term": "T2",
+    "year": 2026,
+    "start_date": "2026-05-09",
+    "end_date": "2026-05-16",
+    "name": "Course Examinations for T2",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "SUMMER",
+    "year": 2026,
+    "start_date": "2026-05-29",
+    "end_date": null,
+    "name": "Pg Course Registration for SS (Tentative)",
+    "description": null
+  },
+  {
+    "event_type": "ADD_DROP",
+    "term": "SUMMER",
+    "year": 2026,
+    "start_date": "2026-06-05",
+    "end_date": null,
+    "name": "Add/Drop for SS",
+    "description": null
+  },
+  {
+    "event_type": "OTHER",
+    "term": "SUMMER",
+    "year": 2026,
+    "start_date": "2026-06-01",
+    "end_date": null,
+    "name": "First Teaching Day of Summer Session",
+    "description": null
+  },
+  {
+    "event_type": "OTHER",
+    "term": "SUMMER",
+    "year": 2026,
+    "start_date": "2026-07-17",
+    "end_date": null,
+    "name": "Last Teaching Day of Summer Session",
+    "description": null
+  },
+  {
+    "event_type": "EXAM",
+    "term": "SUMMER",
+    "year": 2026,
+    "start_date": "2026-07-20",
+    "end_date": "2026-07-22",
+    "name": "Course Examinations for Summer Session",
+    "description": null
+  }
+]

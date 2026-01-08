@@ -1,0 +1,263 @@
+[
+  {
+    "event_type": "REGISTRATION",
+    "term": "T1",
+    "year": 2024,
+    "start_date": "2024-08-15",
+    "end_date": "2024-08-16",
+    "name": "Y2-4 Ug Course Registration for T1",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "T1",
+    "year": 2024,
+    "start_date": "2024-08-29",
+    "end_date": null,
+    "name": "Y1 Ug Course Registration for T1",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "T1",
+    "year": 2024,
+    "start_date": "2024-08-30",
+    "end_date": null,
+    "name": "Pg Course Registration for T1",
+    "description": null
+  },
+  {
+    "event_type": "ADD_DROP",
+    "term": "T1",
+    "year": 2024,
+    "start_date": "2024-09-01",
+    "end_date": "2024-09-13",
+    "name": "Add/Drop for T1",
+    "description": null
+  },
+  {
+    "event_type": "TERM_START_END",
+    "term": "T1",
+    "year": 2024,
+    "start_date": "2024-09-02",
+    "end_date": null,
+    "name": "First Teaching Day of T1",
+    "description": null
+  },
+  {
+    "event_type": "CLASS_MAKEUP",
+    "term": "T1",
+    "year": 2024,
+    "start_date": "2024-09-14",
+    "end_date": null,
+    "name": "Class Make-up for Monday sessions",
+    "description": null
+  },
+  {
+    "event_type": "HOLIDAY",
+    "term": "T1",
+    "year": 2024,
+    "start_date": "2024-09-15",
+    "end_date": "2024-09-17",
+    "name": "Mid-Autumn Festival",
+    "description": null
+  },
+  {
+    "event_type": "CLASS_MAKEUP",
+    "term": "T1",
+    "year": 2024,
+    "start_date": "2024-09-29",
+    "end_date": null,
+    "name": "Class Make-up for Tuesday sessions",
+    "description": null
+  },
+  {
+    "event_type": "HOLIDAY",
+    "term": "T1",
+    "year": 2024,
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-07",
+    "name": "National Day",
+    "description": null
+  },
+  {
+    "event_type": "TERM_START_END",
+    "term": "T1",
+    "year": 2024,
+    "start_date": "2024-12-13",
+    "end_date": null,
+    "name": "Last Teaching Day of T1",
+    "description": null
+  },
+  {
+    "event_type": "EXAM",
+    "term": "T1",
+    "year": 2024,
+    "start_date": "2024-12-15",
+    "end_date": "2024-12-22",
+    "name": "Course Examinations for T1",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "T2",
+    "year": 2024,
+    "start_date": "2024-12-23",
+    "end_date": "2024-12-24",
+    "name": "Ug Course Registration for T2",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "T2",
+    "year": 2025,
+    "start_date": "2025-01-03",
+    "end_date": null,
+    "name": "Pg Course Registration for T2",
+    "description": null
+  },
+  {
+    "event_type": "ADD_DROP",
+    "term": "T2",
+    "year": 2025,
+    "start_date": "2025-01-04",
+    "end_date": "2025-01-17",
+    "name": "Add/Drop for T2",
+    "description": null
+  },
+  {
+    "event_type": "TERM_START_END",
+    "term": "T2",
+    "year": 2025,
+    "start_date": "2025-01-06",
+    "end_date": null,
+    "name": "First Teaching Day of T2",
+    "description": null
+  },
+  {
+    "event_type": "HOLIDAY",
+    "term": "T2",
+    "year": 2025,
+    "start_date": "2025-01-20",
+    "end_date": "2025-02-09",
+    "name": "Chinese New Year Holiday",
+    "description": null
+  },
+  {
+    "event_type": "HOLIDAY",
+    "term": "T2",
+    "year": 2025,
+    "start_date": "2025-01-29",
+    "end_date": null,
+    "name": "Chinese New Year's Day",
+    "description": null
+  },
+  {
+    "event_type": "HOLIDAY",
+    "term": "T2",
+    "year": 2025,
+    "start_date": "2025-04-04",
+    "end_date": "2025-04-06",
+    "name": "Qingming Festival",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "SUMMER",
+    "year": 2025,
+    "start_date": "2025-04-26",
+    "end_date": null,
+    "name": "Ug Course Registration for SS",
+    "description": null
+  },
+  {
+    "event_type": "CLASS_MAKEUP",
+    "term": "T2",
+    "year": 2025,
+    "start_date": "2025-04-27",
+    "end_date": null,
+    "name": "Class Make-up for Friday sessions",
+    "description": null
+  },
+  {
+    "event_type": "HOLIDAY",
+    "term": "T2",
+    "year": 2025,
+    "start_date": "2025-05-01",
+    "end_date": "2025-05-05",
+    "name": "Labor Day",
+    "description": null
+  },
+  {
+    "event_type": "TERM_START_END",
+    "term": "T2",
+    "year": 2025,
+    "start_date": "2025-05-09",
+    "end_date": null,
+    "name": "Last Teaching Day of T2",
+    "description": null
+  },
+  {
+    "event_type": "EXAM",
+    "term": "T2",
+    "year": 2025,
+    "start_date": "2025-05-10",
+    "end_date": "2025-05-17",
+    "name": "Course Examinations for T2",
+    "description": null
+  },
+  {
+    "event_type": "REGISTRATION",
+    "term": "SUMMER",
+    "year": 2025,
+    "start_date": "2025-05-30",
+    "end_date": null,
+    "name": "Pg Course Registration for SS",
+    "description": null
+  },
+  {
+    "event_type": "HOLIDAY",
+    "term": "SUMMER",
+    "year": 2025,
+    "start_date": "2025-05-31",
+    "end_date": "2025-06-02",
+    "name": "Dragon Boat Festival",
+    "description": null
+  },
+  {
+    "event_type": "ADD_DROP",
+    "term": "SUMMER",
+    "year": 2025,
+    "start_date": "2025-06-01",
+    "end_date": "2025-06-09",
+    "name": "Add/Drop for SS",
+    "description": null
+  },
+  {
+    "event_type": "TERM_START_END",
+    "term": "SUMMER",
+    "year": 2025,
+    "start_date": "2025-06-03",
+    "end_date": null,
+    "name": "First Teaching Day of Summer Session",
+    "description": null
+  },
+  {
+    "event_type": "TERM_START_END",
+    "term": "SUMMER",
+    "year": 2025,
+    "start_date": "2025-07-21",
+    "end_date": null,
+    "name": "Last Teaching Day of Summer Session",
+    "description": null
+  },
+  {
+    "event_type": "EXAM",
+    "term": "SUMMER",
+    "year": 2025,
+    "start_date": "2025-07-23",
+    "end_date": "2025-07-25",
+    "name": "Course Examinations for Summer Session",
+    "description": null
+  }
+]

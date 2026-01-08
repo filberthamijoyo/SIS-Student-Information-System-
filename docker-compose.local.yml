@@ -1,0 +1,134 @@
+version: '3.8'
+
+# This docker-compose file includes PostgreSQL for LOCAL development
+# Use this if you don't want to use Supabase
+# Run with: docker-compose -f docker-compose.local.yml up -d
+
+services:
+  # PostgreSQL Database (Local)
+  postgres:
+    image: postgres:15-alpine
+    container_name: cuhk-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres123
+      POSTGRES_DB: course_selection
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - cuhk-network
+
+  # Redis Cache & Queue
+  redis:
+    image: redis:7-alpine
+    container_name: cuhk-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+    networks:
+      - cuhk-network
+
+  # Backend API Server
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: development
+    container_name: cuhk-backend
+    restart: unless-stopped
+    environment:
+      NODE_ENV: development
+      PORT: 5000
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: course_selection
+      DB_USER: postgres
+      DB_PASSWORD: postgres123
+      DB_MAX_CONNECTIONS: 20
+      DATABASE_URL: postgresql://postgres:postgres123@postgres:5432/course_selection
+      REDIS_URL: redis://redis:6379
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      JWT_SECRET: cuhk-course-selection-super-secret-key-change-in-production
+      JWT_EXPIRY: 24h
+      CORS_ORIGIN: http://localhost:3000
+      RATE_LIMIT_WINDOW_MS: 900000
+      RATE_LIMIT_MAX_REQUESTS: 100
+      MAX_CREDITS_PER_SEMESTER: 18
+      MAX_COURSES_PER_SEMESTER: 7
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend/src:/app/src:delegated
+      - ./backend/database:/app/database:delegated
+      - backend_node_modules:/app/node_modules
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - cuhk-network
+    command: npm run dev
+
+  # Enrollment Worker
+  worker:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: development
+    container_name: cuhk-worker
+    restart: unless-stopped
+    environment:
+      NODE_ENV: development
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: course_selection
+      DB_USER: postgres
+      DB_PASSWORD: postgres123
+      DB_MAX_CONNECTIONS: 20
+      DATABASE_URL: postgresql://postgres:postgres123@postgres:5432/course_selection
+      REDIS_URL: redis://redis:6379
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      JWT_SECRET: cuhk-course-selection-super-secret-key-change-in-production
+      QUEUE_NAME: enrollment-queue
+      QUEUE_ATTEMPTS: 3
+      QUEUE_BACKOFF_DELAY: 5000
+    volumes:
+      - ./backend/src:/app/src:delegated
+      - ./backend/database:/app/database:delegated
+      - backend_node_modules:/app/node_modules
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      backend:
+        condition: service_started
+    networks:
+      - cuhk-network
+    command: npm run worker
+
+volumes:
+  postgres_data:
+    driver: local
+  backend_node_modules:
+    driver: local
+
+networks:
+  cuhk-network:
+    driver: bridge

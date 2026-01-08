@@ -1,0 +1,1582 @@
+[
+  {
+    "courseCode": "MKT3030",
+    "courseName": "Integrated Marketing Communication",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:00",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MED1021",
+    "courseName": "Biochemistry and Organic Chemistry I",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC3200",
+    "courseName": "Data Structures and Advanced Programming",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MKT2010",
+    "courseName": "Marketing Management",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "PHY2002",
+    "courseName": "Thermodynamics",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "FIN4110",
+    "courseName": "Options and Futures",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "08:30",
+    "endTime": "11:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIO3002",
+    "courseName": "Microbiology",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "13:30",
+    "endTime": "15:00",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BME3001",
+    "courseName": "Introduction to Biomedical Engineering I",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "STA2002",
+    "courseName": "Probability and Statistics II",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "STA2001",
+    "courseName": "Probability and Statistics I",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "13:30",
+    "endTime": "16:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "STA2001H",
+    "courseName": "Honours Probability and Statistics I",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "13:30",
+    "endTime": "16:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ACT3011",
+    "courseName": "Intermediate Financial Accounting",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "13:30",
+    "endTime": "16:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "STA3001",
+    "courseName": "Linear Models",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "FIN3340",
+    "courseName": "Financial Innovations and Alternative Investment",
+    "examDate": "2025-12-14T00:00:00",
+    "startTime": "18:30",
+    "endTime": "21:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MIS2051",
+    "courseName": "IT in Business Applications",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:00",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MED2001",
+    "courseName": "Human Structure III",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIO3001",
+    "courseName": "Genetics",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC3100",
+    "courseName": "Data Structures",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO4121",
+    "courseName": "Intermediate Econometrics",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC1005",
+    "courseName": "Introduction to Computer Engineering: Programming and Applications",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC4120",
+    "courseName": "Design and Analysis of Algorithms",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "08:30",
+    "endTime": "11:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MKT3020",
+    "courseName": "Consumer Behavior",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT1001",
+    "courseName": "Calculus I",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "13:30",
+    "endTime": "16:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO3211",
+    "courseName": "Quantitative Methods for Policy Evaluation",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "AIE1001",
+    "courseName": "Introduction to AI Programming",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "18:30",
+    "endTime": "20:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "STA4001",
+    "courseName": "Stochastic Processes",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "18:30",
+    "endTime": "20:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO3110",
+    "courseName": "Behavioral Economics",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "18:30",
+    "endTime": "20:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MSE2001",
+    "courseName": "Chemistry Foundation for Materials",
+    "examDate": "2025-12-16T00:00:00",
+    "startTime": "18:30",
+    "endTime": "20:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIO1008",
+    "courseName": "Chemistry and Life Sciences",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "FIN4060",
+    "courseName": "Financial Markets in China and the World",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT1005",
+    "courseName": "Mathematics for Business and Economics",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECE3201",
+    "courseName": "Introduction to Microelectronic Circuits",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIM2005",
+    "courseName": "Computational Biology",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "08:30",
+    "endTime": "11:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT2050",
+    "courseName": "Mathematical Analysis",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "08:30",
+    "endTime": "11:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT2060",
+    "courseName": "Honours Mathematical Analysis",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "08:30",
+    "endTime": "11:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MED2100",
+    "courseName": "Bioethics and Professionalism II",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "PHM4003",
+    "courseName": "Biotech-based Drug Development (lecture/laboratory)",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC1003",
+    "courseName": "Introduction to Computer Science and Java Programming",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "DDA3005",
+    "courseName": "Numerical Methods",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECE3060",
+    "courseName": "Introduction to Robotics",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ENE4009",
+    "courseName": "Power System Stability and Control",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT3042",
+    "courseName": "Honours Linear Algebra II",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC1001",
+    "courseName": "Introduction to Computer Science: Programming Methodology",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "13:30",
+    "endTime": "16:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "DDA3020",
+    "courseName": "Machine Learning",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "18:30",
+    "endTime": "20:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MGT2020",
+    "courseName": "Principles of Management",
+    "examDate": "2025-12-18T00:00:00",
+    "startTime": "18:30",
+    "endTime": "20:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "AY2025",
+    "courseName": "",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "Term 1",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MKT3030",
+    "courseName": "Integrated Marketing Communication December 14 2025 (Sunday) 08:30:00 10:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MKT3030",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MED1021",
+    "courseName": "Biochemistry and Organic Chemistry I December 14 2025 (Sunday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MED1021",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC3200",
+    "courseName": "Data Structures and Advanced Programming December 14 2025 (Sunday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CSC3200",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MKT2010",
+    "courseName": "Marketing Management December 14 2025 (Sunday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MKT2010",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "PHY2002",
+    "courseName": "Thermodynamics December 14 2025 (Sunday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "PHY2002",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "FIN4110",
+    "courseName": "Options and Futures December 14 2025 (Sunday) 08:30:00 11:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "FIN4110",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIO3002",
+    "courseName": "Microbiology December 14 2025 (Sunday) 13:30:00 15:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BIO3002",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BME3001",
+    "courseName": "Introduction to Biomedical Engineering I December 14 2025 (Sunday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BME3001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "STA2002",
+    "courseName": "Probability and Statistics II December 14 2025 (Sunday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "STA2002",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "STA2001",
+    "courseName": "Probability and Statistics I December 14 2025 (Sunday) 13:30:00 16:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "STA2001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "STA2001H",
+    "courseName": "Honours Probability and Statistics I December 14 2025 (Sunday) 13:30:00 16:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "STA2001H",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ACT3011",
+    "courseName": "Intermediate Financial Accounting December 14 2025 (Sunday) 13:30:00 16:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ACT3011",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "STA3001",
+    "courseName": "Linear Models December 14 2025 (Sunday) 18:30:00 20:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "STA3001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "FIN3340",
+    "courseName": "Financial Innovations and Alternative Investment December 14 2025 (Sunday) 18:30:00 21:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "FIN3340",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MED1001",
+    "courseName": "Human Structure I December 15 2025 (Monday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MED1001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MED2050",
+    "courseName": "Medical Genetics December 15 2025 (Monday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MED2050",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BME3002",
+    "courseName": "System Bioengineering I: Cells and CV Systems December 15 2025 (Monday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BME3002",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC3170",
+    "courseName": "Database System December 15 2025 (Monday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CSC3170",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ACT2111",
+    "courseName": "Introductory Financial Accounting December 15 2025 (Monday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ACT2111",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ACT3154",
+    "courseName": "Business and Company Law II December 15 2025 (Monday) 08:30:00 11:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ACT3154",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BME4011",
+    "courseName": "Nanobiotechnology December 15 2025 (Monday) 13:30:00 15:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BME4011",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MED1031",
+    "courseName": "Medicine and Modern Technology I December 15 2025 (Monday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MED1031",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CHM2317",
+    "courseName": "Organic Chemistry and Biomolecules December 15 2025 (Monday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CHM2317",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT3007",
+    "courseName": "Optimization December 15 2025 (Monday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MAT3007",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT4220",
+    "courseName": "Partial Differential Equations December 15 2025 (Monday) 13:30:00 16:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MAT4220",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ENL1001",
+    "courseName": "Listening and Speaking for Language Majors I December 15 2025 (Monday) 13:30:00 16:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ENL1001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ACT2121",
+    "courseName": "Introductory Management Accounting December 15 2025 (Monday) 13:30:00 16:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ACT2121",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT1011",
+    "courseName": "Honours Calculus I December 15 2025 (Monday) 13:30:00 16:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MAT1011",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CHM3420",
+    "courseName": "Advanced Physical Chemistry (Structural Chemistry) December 15 2025 (Monday) 13:30:00 16:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CHM3420",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIM3007",
+    "courseName": "Computational Genomics & Proteomics December 15 2025 (Monday) 18:30:00 20:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BIM3007",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "DDA2010",
+    "courseName": "Applied Machine Learning December 15 2025 (Monday) 18:30:00 20:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "DDA2010",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "STA4003",
+    "courseName": "Time Series December 15 2025 (Monday) 18:30:00 20:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "STA4003",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO3080",
+    "courseName": "Machine Learning for Business December 15 2025 (Monday) 18:30:00 20:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECO3080",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECE2001",
+    "courseName": "Basic Circuit Theory December 15 2025 (Monday) 18:30:00 21:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECE2001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "FIN2010",
+    "courseName": "Financial Management December 15 2025 (Monday) 18:30:00 21:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "FIN2010",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MIS2051",
+    "courseName": "IT in Business Applications December 16 2025 (Tuesday) 08:30:00 10:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MIS2051",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MED2001",
+    "courseName": "Human Structure III December 16 2025 (Tuesday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MED2001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIO3001",
+    "courseName": "Genetics December 16 2025 (Tuesday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BIO3001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC3100",
+    "courseName": "Data Structures December 16 2025 (Tuesday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CSC3100",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO4121",
+    "courseName": "Intermediate Econometrics December 16 2025 (Tuesday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECO4121",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC1005",
+    "courseName": "Introduction to Computer Engineering: Programming and Applications December 16 2025 (Tuesday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CSC1005",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC4120",
+    "courseName": "Design and Analysis of Algorithms December 16 2025 (Tuesday) 08:30:00 11:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CSC4120",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MKT3020",
+    "courseName": "Consumer Behavior December 16 2025 (Tuesday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MKT3020",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT1001",
+    "courseName": "Calculus I December 16 2025 (Tuesday) 13:30:00 16:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MAT1001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO3211",
+    "courseName": "Quantitative Methods for Policy Evaluation December 16 2025 (Tuesday) 18:30:00 20:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECO3211",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "AIE1001",
+    "courseName": "Introduction to AI Programming December 16 2025 (Tuesday) 18:30:00 20:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "AIE1001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "STA4001",
+    "courseName": "Stochastic Processes December 16 2025 (Tuesday) 18:30:00 20:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "STA4001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO3110",
+    "courseName": "Behavioral Economics December 16 2025 (Tuesday) 18:30:00 20:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECO3110",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MSE2001",
+    "courseName": "Chemistry Foundation for Materials December 16 2025 (Tuesday) 18:30:00 20:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MSE2001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MED1100",
+    "courseName": "Bioethics and Professionalism I December 17 2025 (Wednesday) 08:30:00 10:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MED1100",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MED2011",
+    "courseName": "Human Function III December 17 2025 (Wednesday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MED2011",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIO3101",
+    "courseName": "Genetics and Molecular Biology Laboratory December 17 2025 (Wednesday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BIO3101",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BME3320",
+    "courseName": "Biomedical Imaging December 17 2025 (Wednesday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BME3320",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO2011",
+    "courseName": "Basic Microeconomics December 17 2025 (Wednesday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECO2011",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "FIN4210",
+    "courseName": "Corporate Finance December 17 2025 (Wednesday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "FIN4210",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "PHY3260",
+    "courseName": "Statistical Physics Foundation for AI December 17 2025 (Wednesday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "PHY3260",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECE3510",
+    "courseName": "Digital Signal Processing December 17 2025 (Wednesday) 08:30:00 11:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECE3510",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIO3003",
+    "courseName": "Ecology December 17 2025 (Wednesday) 13:30:00 15:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BIO3003",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MED1011",
+    "courseName": "Human Function I December 17 2025 (Wednesday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MED1011",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIO2002",
+    "courseName": "Cell and Molecular Biology December 17 2025 (Wednesday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BIO2002",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC4005",
+    "courseName": "Parallel Programming December 17 2025 (Wednesday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CSC4005",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ACT4253",
+    "courseName": "Business Ethics and Corporate Social Responsibility December 17 2025 (Wednesday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ACT4253",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO3480",
+    "courseName": "Industrial Organization and Public Policy December 17 2025 (Wednesday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECO3480",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC3001",
+    "courseName": "Discrete Mathematics December 17 2025 (Wednesday) 13:30:00 16:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CSC3001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECE3050",
+    "courseName": "Principles of Communication Systems December 17 2025 (Wednesday) 13:30:00 16:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECE3050",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BME4008",
+    "courseName": "Biomechanics of the Human Body December 17 2025 (Wednesday) 18:30:00 20:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BME4008",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC3050",
+    "courseName": "Computer Architecture December 17 2025 (Wednesday) 18:30:00 20:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CSC3050",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT3300",
+    "courseName": "Mathematical Modeling December 17 2025 (Wednesday) 18:30:00 20:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MAT3300",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MSE3002",
+    "courseName": "Microstructural Evolution in Materials December 17 2025 (Wednesday) 18:30:00 20:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MSE3002",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT2040",
+    "courseName": "Linear Algebra December 17 2025 (Wednesday) 18:30:00 21:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MAT2040",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIO1008",
+    "courseName": "Chemistry and Life Sciences December 18 2025 (Thursday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BIO1008",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "FIN4060",
+    "courseName": "Financial Markets in China and the World December 18 2025 (Thursday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "FIN4060",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT1005",
+    "courseName": "Mathematics for Business and Economics December 18 2025 (Thursday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MAT1005",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECE3201",
+    "courseName": "Introduction to Microelectronic Circuits December 18 2025 (Thursday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECE3201",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIM2005",
+    "courseName": "Computational Biology December 18 2025 (Thursday) 08:30:00 11:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BIM2005",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT2050",
+    "courseName": "Mathematical Analysis December 18 2025 (Thursday) 08:30:00 11:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MAT2050",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT2060",
+    "courseName": "Honours Mathematical Analysis December 18 2025 (Thursday) 08:30:00 11:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MAT2060",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MED2100",
+    "courseName": "Bioethics and Professionalism II December 18 2025 (Thursday) 13:30:00 14:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MED2100",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "PHM4003",
+    "courseName": "Biotech-based Drug Development (lecture/laboratory) December 18 2025 (Thursday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "PHM4003",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC1003",
+    "courseName": "Introduction to Computer Science and Java Programming December 18 2025 (Thursday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CSC1003",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "DDA3005",
+    "courseName": "Numerical Methods December 18 2025 (Thursday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "DDA3005",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECE3060",
+    "courseName": "Introduction to Robotics December 18 2025 (Thursday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECE3060",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ENE4009",
+    "courseName": "Power System Stability and Control December 18 2025 (Thursday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ENE4009",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT3042",
+    "courseName": "Honours Linear Algebra II December 18 2025 (Thursday) 13:30:00 16:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MAT3042",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC1001",
+    "courseName": "Introduction to Computer Science: Programming Methodology December 18 2025 (Thursday) 13:30:00 16:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CSC1001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "DDA3020",
+    "courseName": "Machine Learning December 18 2025 (Thursday) 18:30:00 20:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "DDA3020",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MGT2020",
+    "courseName": "Principles of Management December 18 2025 (Thursday) 18:30:00 20:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MGT2020",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO3121",
+    "courseName": "Introductory Econometrics",
+    "examDate": "2025-12-20T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECE2050",
+    "courseName": "Digital Logic and Systems",
+    "examDate": "2025-12-20T00:00:00",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "FIN4120",
+    "courseName": "Fixed Income Securities Analysis",
+    "examDate": "2025-12-20T00:00:00",
+    "startTime": "08:30",
+    "endTime": "11:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIM3008",
+    "courseName": "Machine Learning in Computational Biology",
+    "examDate": "2025-12-20T00:00:00",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "DMS2030",
+    "courseName": "Operations Management",
+    "examDate": "2025-12-20T00:00:00",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT3040",
+    "courseName": "Advanced Linear Algebra",
+    "examDate": "2025-12-20T00:00:00",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC3002",
+    "courseName": "C/C++ Programming",
+    "examDate": "2025-12-20T00:00:00",
+    "startTime": "13:30",
+    "endTime": "16:00",
+    "location": null,
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "FIN3080",
+    "courseName": "Investment Analysis and Portfolio Management December 19 2025 (Friday) 08:30:00 10:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "FIN3080",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ACT4131",
+    "courseName": "Auditing December 19 2025 (Friday) 08:30:00 11:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ACT4131",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "PHY1001",
+    "courseName": "Mechanics December 19 2025 (Friday) 08:30:00 11:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "PHY1001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "FIN4080",
+    "courseName": "Behavioral Finance December 19 2025 (Friday) 13:30:00 15:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "FIN4080",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "DDA4250",
+    "courseName": "Mathematical Introduction to Deep Learning December 19 2025 (Friday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "DDA4250",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO2021",
+    "courseName": "Basic Macroeconomics December 19 2025 (Friday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECO2021",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CHM1001",
+    "courseName": "General Chemistry December 19 2025 (Friday) 13:30:00 16:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CHM1001",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO3121",
+    "courseName": "Introductory Econometrics December 20 2025 (Saturday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECO3121",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECE2050",
+    "courseName": "Digital Logic and Systems December 20 2025 (Saturday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECE2050",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "FIN4120",
+    "courseName": "Fixed Income Securities Analysis December 20 2025 (Saturday) 08:30:00 11:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "FIN4120",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "BIM3008",
+    "courseName": "Machine Learning in Computational Biology December 20 2025 (Saturday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "BIM3008",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "DMS2030",
+    "courseName": "Operations Management December 20 2025 (Saturday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "DMS2030",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MAT3040",
+    "courseName": "Advanced Linear Algebra December 20 2025 (Saturday) 13:30:00 15:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MAT3040",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "CSC3002",
+    "courseName": "C/C++ Programming December 20 2025 (Saturday) 13:30:00 16:00:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "CSC3002",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "STA4001H",
+    "courseName": "Honours Stochastic Processes December 21 2025 (Sunday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "STA4001H",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "MIS3012",
+    "courseName": "LLMs in Business - From Prompt Engineering to AI Agents December 21 2025 (Sunday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "MIS3012",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO3630",
+    "courseName": "International Finance December 21 2025 (Sunday) 08:30:00 10:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECO3630",
+    "term": "Term 1",
+    "year": 2025
+  },
+  {
+    "courseCode": "ECO3160",
+    "courseName": "Game Theory and Business Strategy December 21 2025 (Sunday) 13:30:00 16:30:00",
+    "examDate": null,
+    "startTime": null,
+    "endTime": null,
+    "location": "ECO3160",
+    "term": "Term 1",
+    "year": 2025
+  }
+]

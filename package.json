@@ -1,0 +1,42 @@
+{
+  "name": "student-information-system",
+  "version": "1.0.0",
+  "description": "A comprehensive full-stack Student Information System for managing academic operations including course enrollment, grades, and student records",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filberthamijoyo/Student-Information-System.git"
+  },
+  "keywords": [
+    "student-information-system",
+    "course-management",
+    "enrollment",
+    "academic-records",
+    "education",
+    "university",
+    "database-project",
+    "full-stack"
+  ],
+  "author": "Filbert Hamijoyo",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "db:seed": "ts-node prisma/seed.ts",
+    "db:studio": "prisma studio",
+    "db:push": "prisma db push",
+    "db:generate": "prisma generate"
+  },
+  "prisma": {
+    "seed": "ts-node prisma/seed.ts"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^6.0.0",
+    "@types/node": "^20.0.0",
+    "prisma": "^6.19.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.19.0",
+    "bcrypt": "^6.0.0"
+  }
+}
